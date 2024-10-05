@@ -1,2 +1,2 @@
-# legacy-launcher-files
-All devices
+download the file with your device name
+
